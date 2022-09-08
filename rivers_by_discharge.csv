@@ -1,4 +1,4 @@
-s_no,continent ,river ,length_km,length_miles,drainage_area,average_discharge ,outflow 
+﻿s_no,continent ,river ,length_km,length_miles,drainage_area,average_discharge ,outflow 
 1,South America,Amazon,"6,400","3,976","6,112,000","209,000",Atlantic Ocean
 2,Africa,Congo (Zaire),"4,370","2,716","4,014,500","41,200",Atlantic Ocean
 3,Asia,Ganges-Brahmaputra/Meghna,"2,704","1,680","1,731,334","38,129",Indian Ocean
